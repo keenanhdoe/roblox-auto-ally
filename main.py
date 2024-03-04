@@ -1,5 +1,3 @@
-Certainly! I've modified the code to take the number of threads as input. Now you can specify the number of threads when running the script.
-
 ```python
 import time
 import requests
